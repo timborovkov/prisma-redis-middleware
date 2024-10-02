@@ -92,5 +92,6 @@
   "bugs": {
     "url": "https://github.com/Asjas/prisma-redis-middleware/issues"
   },
-  "homepage": "https://github.com/Asjas/prisma-redis-middleware#readme"
+  "homepage": "https://github.com/Asjas/prisma-redis-middleware#readme",
+  "packageManager": "yarn@4.5.0"
 }
